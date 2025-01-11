@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980449194861",
+    "project_id": "visionmate-738a4",
+    "storage_bucket": "visionmate-738a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980449194861:android:3934cd2029a21706e8a064",
+        "android_client_info": {
+          "package_name": "com.example.visionmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJF7bCmgax4lY4Mq-klsDaFhj3n2pvps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
